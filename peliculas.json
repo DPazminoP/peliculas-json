@@ -1,0 +1,49 @@
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "titulo": "Casablanca",
+      "genero": "Romance",
+      "descripcion": "Un clásico sobre amor y sacrificio en tiempos de guerra.",
+      "anio": 1942,
+      "imagen": "https://picsum.photos/200/300?random=1"
+    },
+    {
+      "id": 2,
+      "titulo": "Lo que el viento se llevó",
+      "genero": "Drama",
+      "descripcion": "Historia épica ambientada en la Guerra Civil estadounidense.",
+      "anio": 1939,
+      "imagen": "https://picsum.photos/200/300?random=2"
+    },
+    {
+      "id": 3,
+      "titulo": "Ciudadano Kane",
+      "genero": "Drama",
+      "descripcion": "La vida de un magnate de la prensa y su legado.",
+      "anio": 1941,
+      "imagen": "https://picsum.photos/200/300?random=3"
+    },
+    {
+      "id": 4,
+      "titulo": "Psicosis",
+      "genero": "Terror",
+      "descripcion": "El inquietante misterio del Motel Bates.",
+      "anio": 1960,
+      "imagen": "https://picsum.photos/200/300?random=4"
+    },
+    {
+      "id": 5,
+      "titulo": "El Padrino",
+      "genero": "Crimen",
+      "descripcion": "La saga de la familia Corleone y el poder de la mafia.",
+      "anio": 1972,
+      "imagen": "https://picsum.photos/200/300?random=5"
+    },
+    {
+      "id": 6,
+      "titulo": "2001: Odisea del espacio",
+      "genero": "Ciencia Ficción",
+      "descripcion": "Una exploración filosófica del futuro y la inteligencia artificial.",
+      "anio": 1968,
+      "imagen": "https
