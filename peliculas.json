@@ -6,7 +6,7 @@
       "genero": "Fruta",
       "descripcion": "Dulce y crujiente, rica en fibra y vitamina C.",
       "anio": 2026,
-      "imagen": "https://picsum.photos/200/300?random=11"
+      "imagen": "https://i.postimg.cc/d3nC6cFc/manzana1.webp"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "genero": "Fruta",
       "descripcion": "Suave y energética, fuente de potasio.",
       "anio": 2026,
-      "imagen": "https://picsum.photos/200/300?random=12"
+      "imagen": "https://i.postimg.cc/9FWt7J2h/banana.webp"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "genero": "Fruta",
       "descripcion": "Cítrica y refrescante, excelente fuente de vitamina C.",
       "anio": 2026,
-      "imagen": "https://picsum.photos/200/300?random=13"
+      "imagen": "https://i.postimg.cc/bYR1pktg/naranja.jpg"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "genero": "Fruta",
       "descripcion": "Pequeñas y jugosas, usadas en vinos y postres.",
       "anio": 2026,
-      "imagen": "https://picsum.photos/200/300?random=14"
+      "imagen": "https://i.postimg.cc/Wp70TgZL/uva.webp"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "genero": "Fruta",
       "descripcion": "Exótica y dulce, rica en antioxidantes.",
       "anio": 2026,
-      "imagen": "https://picsum.photos/200/300?random=15"
+      "imagen": "https://i.postimg.cc/VLGMbw4s/mango.webp"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "genero": "Fruta",
       "descripcion": "Refrescante y jugosa, ideal para el verano.",
       "anio": 2026,
-      "imagen": "https://picsum.photos/200/300?random=16"
+      "imagen": "https://i.postimg.cc/yYQ9SKnn/sandia.jpg"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "genero": "Fruta",
       "descripcion": "Tropical y ácida, excelente para jugos y postres.",
       "anio": 2026,
-      "imagen": "https://picsum.photos/200/300?random=17"
+      "imagen": "https://i.postimg.cc/Z5WN8QMz/pina.png"
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "genero": "Fruta",
       "descripcion": "Pequeña y dulce, muy popular en repostería.",
       "anio": 2026,
-      "imagen": "https://picsum.photos/200/300?random=18"
+      "imagen": "https://i.postimg.cc/0QsJqy5c/fresa.jpg"
     }
   ]
 }
